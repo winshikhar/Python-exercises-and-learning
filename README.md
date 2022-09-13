@@ -255,45 +255,13 @@ Follow the steps down below to get started learning Data Science!!!
 
 | Contact        | Info           | 
 | ------------- |:-------------:|
-| <b>Gmail</b>      | tanuprabhu96@gmail.com  | 
-| <b>Phone number</b>        | +1 306-737-9073              |   
-| <b>Facebook</b>       | Tanu N Prabhu      |    
-| <b>Instagram </b>    | tanunprabhu   |
-| <b>Linkedin </b>    | [Tanu Nanda Prabhu](https://www.linkedin.com/in/tanu-nanda-prabhu-a15a091b5/) |
-
----
-
-# Reviews
-
-<b>Below given are some of the reviews about this Python GitHub Repository:</b>
- 
+| <b>Gmail</b>      | shikharbhardwaj.phd19cse@pec.edu.in  | 
+| <b>Phone number</b>        |               |   
+| <b>Facebook</b>       | Shikhar Bhardwaj      |    
+| <b>Instagram </b>    | bshikhar   |
+| <b>Linkedin </b>    | [Shikhar Bhardwaj](https://www.linkedin.com/in/b-shikhar/) |
 
 
-> <b>‪Elin Uppström</b> - Senior Lecturer at Uppsala University, Sweden. <br>
-> I found your excellent exercises at your GitHub wile preparing undergraduate course in data analysis. I want to use it in my course.
-
-
-> <b>‪Cole Striler</b> - Data Scientist, Founder of Datafied<br>
-> I came across your GitHub and love your Jupyter Notebooks, especially the one on "<b>Predicting PewDiePie's daily subscribers</b>". I think you do a great job at explaining your work which is something others can learn.
-
-
-> <b>Laurence Watson</b> - Co-Founder & CEO, Treebeard<br>
-> You have a lot of great Jupyter notebook content on GitHub.
-
-
-> <b>Poonam Gupta</b> - Math & AP Computer Science Instructor, Brunswick School <br>
-> Thank you so much for posting such helpful posts on GitHub.Many, many thanks for all you do to spread the knowledge.
-
-
-**Do you like the Repository, Please drop in your precious reviews by shooting an e-mail**.
-
----
-
-# Feedback
-
-[Any Feedbacks or Suggestions- Please Click Here](https://form.jotform.com/92847563204259)
-
----
 
 # Version
 
